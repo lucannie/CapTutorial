@@ -41,11 +41,6 @@
 			<scope>test</scope>
 		</dependency>
 
-        <dependency>
-            <groupId>com.sap.cds</groupId>
-            <artifactId>cds-starter-cloudfoundry</artifactId>
-        </dependency>
-
 
 	</dependencies>
 
